@@ -4,7 +4,7 @@
 # errores por favor reportelos en el foro (http://pseint.sourceforge.net).
 
 import math
-
+print("Programa de cálculo de ecuación de sgundo grado")
 try:
     a = float(input("Escribe el valor de a: "))
     b = float(input("Escribe el valor de b: "))
